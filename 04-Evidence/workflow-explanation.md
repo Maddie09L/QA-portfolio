@@ -6,8 +6,8 @@ This folder contains visual evidence of how I collaborated with the developer th
 
 | File | Description | 
 |---|---|
-| Jira board overview | Full Jira board showing all tickets across workflow stages |
-| Jira board-ticket detail | Close-up of a single ticket with comments, attachments, and status changes | 
+| [Jira Board Overview.pdf](https://github.com/user-attachments/files/28728609/Jira.Board.Overview.pdf) | Full Jira board showing all tickets across workflow stages |
+| [Jira Board-Ticket detail.pdf](https://github.com/user-attachments/files/28728612/Jira.Board-Ticket.detail.pdf) | Close-up of a single ticket with comments, attachments, and status changes | 
 
 ## 🔁 Jira Workflow
 
