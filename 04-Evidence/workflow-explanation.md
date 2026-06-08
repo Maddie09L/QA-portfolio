@@ -44,13 +44,13 @@ Working as the sole QA with a single developer taught me to:
 
 ## 📸 Screenshots
 
-> _**Jira Board Overview**_
+ _**Jira Board Overview**_
 
 <img width="1905" height="898" alt="2026-06-08 07_59_51-" src="https://github.com/user-attachments/assets/033def96-5006-4006-9fa7-38b46416da1d" />
 
 ---
 
->_**Jira Ticket Detail**_
+_**Jira Ticket Detail**_
 
 
 <img width="1917" height="859" alt="BUG1" src="https://github.com/user-attachments/assets/3cbe980d-3ce5-4c50-a79e-107b1efa3c9e" />
