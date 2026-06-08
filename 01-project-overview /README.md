@@ -25,5 +25,5 @@ The Vector platform is a web-based online learning and mock Interview tool. I pr
 
 --- 
 
-[← Back to main portfolio](...)
+[← Back to QA-portfolio](...)
 
