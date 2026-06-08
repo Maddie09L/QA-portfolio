@@ -41,8 +41,8 @@ These three are good examples of the depth and range of my defect reporting:
 2. [**BUG-LOGIN-01:** Password show/hide icon disappears after field loses focus](./featured-bugs/BUG-LOGIN-01-show-hide-icon.md)
    *Medium severity • Cross-browser UI bug • Inconsistent across Chrome/Edge/Firefox*
    
-3. [**BUG-USER-06:** Uploaded portfolio images are not displayed correctly on the Become a Coach page](./featured-bugs/BUG-USER-06-uploaded-portfolio.md)
-   *Medium Severity • Functional/UI bug • Documents intentional behavior*
+3. [**BUG-LOGIN-02:** Keyboard shortcuts (Ctrl+C, Ctrl+V) fail in password field](./featured-bugs/BUG-LOGIN-02-keyboard-shortcuts.md)
+   *Low severity • UX accessibility issue • Documents intentional behavior*
 
    ## 📊 Bug Summary
 
