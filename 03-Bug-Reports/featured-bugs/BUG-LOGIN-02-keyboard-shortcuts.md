@@ -8,7 +8,7 @@
 | **Priority** | Low |
 | **Status** | ✅ Closed (documented as intentional behavior) |
 | **Reported By** | Maddie |
-| **Date Reported** | [Date] |
+| **Date Reported** | [March 12, 2026 at 9:18 AM] |
 
 ---
 
