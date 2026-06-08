@@ -8,7 +8,7 @@
 | **Priority** | Medium |
 | **Status** | ✅ Closed / Fixed |
 | **Reported By** | Maddie |
-| **Date Reported** | [Date] |
+| **Date Reported** | [March 11, 2026 at 10:49 PM] |
 
 ---
 
