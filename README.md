@@ -4,8 +4,6 @@ Welcome! This repository is my Quality Assurance Portfolio, showcasing end-to-en
 
 I partnered with the software engenieer building Vector to provide full QA coverage: test planning, manual test execution, defect reporting, and verification of fixes - collaborating daily through a shared Jira board.
 
-> 💡**For recruiters and hiring managers:** Start with the [project overview](./01-project-overview/) for the executive summary, then explore the [featured bugs](./03-bug-reports-featured-bugs/) for detailed examples of my defect reporting.
-
 ---
 
 ## 👩‍💻 About Me
