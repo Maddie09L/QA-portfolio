@@ -6,10 +6,10 @@ This folder contains my full defect log for the Vector platform, plus 3 featured
 
 | File / Folder | Description |
 |---|---|
-| `Bug_Tracker.xlsx` | Full bug tracker with all defects, severity, priority, and status [Bug Tracker.xlsx](https://github.com/user-attachments/files/28718173/Bug.Tracker.xlsx) |
-| `Bug_Tracker.pdf` | PDF preview of the bug tracker [Bug Tracker.pdf](https://github.com/user-attachments/files/28718180/Bug.Tracker.pdf) |
-| `featured-bugs/` | 3 detailed bug reports in markdown format (recommended starting point) |
-| `screenshots/` | Visual previews of the tracker <img width="1334" height="703" alt="Bug Tracker" src="https://github.com/user-attachments/assets/42e8d5da-020a-42f7-8019-8c9bc043970d" />
+| [Bug Tracker.xlsx](https://github.com/user-attachments/files/28718173/Bug.Tracker.xlsx) | Full bug tracker with all defects, severity, priority, and status  |
+| [Bug Tracker.pdf](https://github.com/user-attachments/files/28718180/Bug.Tracker.pdf) | PDF preview of the bug tracker  |
+| `featured-bugs` | 3 detailed bug reports in markdown format (recommended starting point) |
+| `screenshots` | Visual previews of the tracker <img width="1334" height="703" alt="Bug Tracker" src="https://github.com/user-attachments/assets/42e8d5da-020a-42f7-8019-8c9bc043970d" />
  |
 
 ## 🐛 Bug Report Format
