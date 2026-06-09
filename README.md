@@ -45,7 +45,7 @@ I'm a QA Engineer focused on manual testing, test strategy, and defect managemen
 
 | Folder | What's Inside |
 |---|---|
-| [`01-project-overview`](01-project-overview/README.md) | Project Overview PDF + Testing Strategy document |
+| [`01-project-overview`](01-project-overview%20/README.md) | Project Overview PDF + Testing Strategy document |
 | [`02-test-cases/`](02-test-cases/README.md) | Master test case repository (Excel) + Structure explanation | 
 | [`03-bug-reports/`](03-Bug-Reports/README.md) | Bug tracker + 3 featured bug reports in detail | 
 | [`04-evidence/`](04-Evidence/workflow-explanation.md) | Jira board screenshots + workflow explanation |
