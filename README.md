@@ -2,7 +2,7 @@
 
 Welcome! This repository is my Quality Assurance Portfolio, showcasing end-to-end QA work I performed on a real web application called **Vector** - an online learning and mock interview platform.
 
-I partnered with the software engenieer building Vector to provide full QA coverage: test planning, manual test execution, defect reporting, and verification of fixes - collaborating daily through a shared Jira board.
+I partnered with the software engineer building Vector to provide full QA coverage: test planning, manual test execution, defect reporting, and verification of fixes - collaborating daily through a shared Jira board.
 
 ---
 
@@ -10,8 +10,8 @@ I partnered with the software engenieer building Vector to provide full QA cover
 
 I'm a QA Engineer focused on manual testing, test strategy, and defect management. My background as Licensed Nursing Assistant gave me a foundation in attention to detail, precise documentation, and following protocols under pressure, skills I now apply to catching bugs before users do. I care about:
 
--  Writing clear, repearable test cases that catch real user problems
--  Filling bugs reports that developers can act on whitout back-and-forth
+-  Writing clear, repeatable test cases that catch real user problems
+-  Filling bugs report that developers can act on without back-and-forth
 -  Building strong collaboration loops with developers through tools like Jira
 
 📫**Contact:** [madeleinymason20@gmail.com] • [www.linkedin.com/in/madeleinymason-qa] • [Portsmouth, NH]
@@ -26,7 +26,7 @@ I'm a QA Engineer focused on manual testing, test strategy, and defect managemen
 | **My Role** | QA Engineer (Manual Testing & Defect Management) |
 | **Team** | 1 Software Engineer + 1 QA (me) |
 | **Status** | QA cycle complete; project paused by developer |
-| **Tools** |  Jira, Microsoft Excel, Chrome / Edge / Firefox DevTools | 
+| **Tools** |Jira, Microsoft Excel, Chrome / Edge / Firefox DevTools | 
 | **Environment** | Windows 11 • Chrome 145 • Edge 145 • Firefox 147 |
 
 ---
@@ -37,7 +37,7 @@ I'm a QA Engineer focused on manual testing, test strategy, and defect managemen
 - 🐛 **34 Bugs** Identified, Documented, and tracked to resolution
 - 🔁 **End-to-end defect workflow** managed through Jira (To Do → Dev → QA → Deployed)
 - 🌐 **Cross-Browser testing** on Chrome, Edge, and Firefox
-- 🛡️ **Multiple high-Severity issues** caught pre-release (password reset accepting current password, login button non-responsiveness, password visibility toggle failure)
+- 🛡️ **Multiple High-Severity issues** caught pre-release (password reset accepting current password, login button non-responsiveness, password visibility toggle failure)
 
 ---
 
@@ -53,7 +53,7 @@ I'm a QA Engineer focused on manual testing, test strategy, and defect managemen
 
 ---
 
-## 🛠️ Skills & Tools Demostrated
+## 🛠️ Skills & Tools Demonstrated
 
 **Testing Types:**
 Functional Testing • Exploratory Testing • Regression Testing • Cross-Browser Testing • Negative & Boundary Testing • Smoke Testing
