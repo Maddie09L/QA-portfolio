@@ -33,7 +33,7 @@ I'm a QA Engineer focused on manual testing, test strategy, and defect managemen
 
 ## 🎯 Key Results
 
-- ✅ **200+ Test cases** authored across 5+ funtional modules
+- ✅ **200+ Test cases** authored across 5+ functional modules
 - 🐛 **34 Bugs** Identified, Documented, and tracked to resolution
 - 🔁 **End-to-end defect workflow** managed through Jira (To Do → Dev → QA → Deployed)
 - 🌐 **Cross-Browser testing** on Chrome, Edge, and Firefox
@@ -56,7 +56,7 @@ I'm a QA Engineer focused on manual testing, test strategy, and defect managemen
 ## 🛠️ Skills & Tools Demostrated
 
 **Testing Types:**
-Funtional Testing • Exploratory Testing • Regression Testing • Cross-Browser Testing • Negative & Boundarty Testing • Smoke Testing
+Functional Testing • Exploratory Testing • Regression Testing • Cross-Browser Testing • Negative & Boundary Testing • Smoke Testing
 
 **Tools**
 Jira • Microsoft Excel • Chrome DevTools • Edge DevTools • Firefox DevTools • GitHub
@@ -115,6 +115,6 @@ The vector platform was build by Stan Mozolevskiy a software Engineer I partnere
 
 ---
 
-*Last Updated: [ 06 / 20226 ]*
+*Last Updated: [ 08 / 2026 ]*
 
 
